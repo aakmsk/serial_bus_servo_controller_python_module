@@ -18,7 +18,7 @@ The main connection procedure is in the following three steps.
 1. Connect the USB serial converter to the PC (such as raspberry pi).
 1. Connect servos and power supply as necessary.
 
-![](images\img.jpg)
+![](https://raw.githubusercontent.com/aakmsk/serial_bus_servo_controller/main/images/img.jpg)
 
 # Download the module
 ## Terminal:
