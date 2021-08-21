@@ -59,3 +59,8 @@ controller.cmd_mult_servo_unload([1, 2])
 ```
 b_val = controller.cmd_get_battery_voltage()
 ```
+
+# Update history
+|date|Details|
+|----|----|
+|2021/08/20|first commit|
