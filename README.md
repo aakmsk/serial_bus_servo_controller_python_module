@@ -23,8 +23,8 @@ The main connection procedure is in the following three steps.
 # Download the module
 ## Terminal:
 ```
-git clone https://github.com/aakmsk/serial_bus_servo_controller.git
-cd serial_bus_servo_controller/scripts
+git clone https://github.com/aakmsk/serial_bus_servo_controller_python_module.git
+cd serial_bus_servo_controller_python_module/scripts
 ```
 
 # Usage
